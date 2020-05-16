@@ -97,12 +97,17 @@
 }
 .flow_shape {
 }
+.checkbox {
+  text-align:left;
+}
 .connector {
 }
 .form_hint {
   color:#999999;
 }
 .form_disabled {
+}
+.box_3 {
 }
 .icon {
 }
