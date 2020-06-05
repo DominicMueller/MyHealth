@@ -108,7 +108,7 @@
 #u81 {
   border-width:0px;
   position:absolute;
-  left:229px;
+  left:389px;
   top:392px;
   width:140px;
   height:40px;
@@ -144,7 +144,7 @@
 #u82 {
   border-width:0px;
   position:absolute;
-  left:389px;
+  left:229px;
   top:392px;
   width:140px;
   height:40px;
@@ -459,7 +459,7 @@
   width:300px;
   height:25px;
   padding:3px 2px 3px 2px;
-  font-family:'Arial-ItalicMT', 'Arial Italic', 'Arial', sans-serif;
+  font-family:'Arial-ItalicMT', 'Arial Kursiv', 'Arial', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:13px;
@@ -478,7 +478,7 @@
   width:300px;
   height:25px;
   padding:3px 2px 3px 2px;
-  font-family:'Arial-ItalicMT', 'Arial Italic', 'Arial', sans-serif;
+  font-family:'Arial-ItalicMT', 'Arial Kursiv', 'Arial', sans-serif;
   font-weight:400;
   font-style:italic;
   font-size:13px;
@@ -507,7 +507,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial-ItalicMT', 'Arial Italic', 'Arial', sans-serif;
+  font-family:'Arial-ItalicMT', 'Arial Kursiv', 'Arial', sans-serif;
   font-weight:400;
   font-style:italic;
 }
@@ -519,7 +519,7 @@
   width:300px;
   height:25px;
   display:flex;
-  font-family:'Arial-ItalicMT', 'Arial Italic', 'Arial', sans-serif;
+  font-family:'Arial-ItalicMT', 'Arial Kursiv', 'Arial', sans-serif;
   font-weight:400;
   font-style:italic;
 }
@@ -547,7 +547,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial-ItalicMT', 'Arial Italic', 'Arial', sans-serif;
+  font-family:'Arial-ItalicMT', 'Arial Kursiv', 'Arial', sans-serif;
   font-weight:400;
   font-style:italic;
 }
