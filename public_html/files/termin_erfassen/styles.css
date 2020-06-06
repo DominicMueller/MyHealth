@@ -392,10 +392,6 @@
   box-sizing:border-box;
   width:100%;
 }
-#u162_img.mouseOver {
-}
-#u162.mouseOver {
-}
 #u162_text {
   border-width:0px;
   word-wrap:break-word;
@@ -649,6 +645,9 @@
   width:100px;
   height:30px;
   display:flex;
+  font-family:'Arial-ItalicMT', 'Arial Italic', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:italic;
 }
 #u171 .text {
   position:absolute;
@@ -678,6 +677,9 @@
   width:100px;
   height:30px;
   display:flex;
+  font-family:'Arial-ItalicMT', 'Arial Italic', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:italic;
 }
 #u172 .text {
   position:absolute;
@@ -707,6 +709,9 @@
   width:100px;
   height:30px;
   display:flex;
+  font-family:'Arial-ItalicMT', 'Arial Italic', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:italic;
 }
 #u173 .text {
   position:absolute;
