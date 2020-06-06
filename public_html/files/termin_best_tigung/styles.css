@@ -929,7 +929,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:300px;
+  width:251px;
   height:30px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -942,9 +942,9 @@
 #u204 {
   border-width:0px;
   position:absolute;
-  left:229px;
+  left:278px;
   top:201px;
-  width:300px;
+  width:251px;
   height:30px;
   display:flex;
 }
@@ -1018,4 +1018,34 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+}
+#u206_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:46px;
+  height:40px;
+}
+#u206 {
+  border-width:0px;
+  position:absolute;
+  left:229px;
+  top:201px;
+  width:46px;
+  height:40px;
+  display:flex;
+}
+#u206 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u206_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
 }
